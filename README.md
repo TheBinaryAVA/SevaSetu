@@ -1,4 +1,4 @@
-# 🌐 SEVASETU (세바세투)
+# 🌐 SEVASETU
 
 <p align="center">
   <b style="font-size: 1.5rem;">The Intelligent, Decentralized Routing Engine for Autonomous Civic Operations</b>
@@ -24,7 +24,11 @@
 > * **Inspection Overhead Costs:** Cut by **75%** by leveraging crowdsourced geofenced validation layers.
 
 ---
-| **Multimodal AI Categorization** | Uses Gemini 1.5 Pro to process raw images, extract hazard context, and write engineering briefs. | **Zero Human Middlemen:** Automatically determines issue severity and routes tickets without data entry. |
-| **Geospatial De-duplication** | Scans a tight coordinate radius using specialized PostGIS R-Tree spatial indexing. | **Solves Ticket Spam:** If 30 people report the same streetlight failure, it appends updates to a single master issue. |
-| **Decentralized Proximity Verification** | Leverages Redis and Firebase Cloud Messaging to send background validation tasks to nearby users. | **Crowdsourced Integrity:** Offloads physical inspection tasks to trusted community clusters for validation. |
-| **Real-Time Public SLA Timers** | Tracks ticket statuses continuously against dynamic service department resolution deadlines. | **Enforces Accountability:** Publicly displays dynamic countdown trackers for municipal transparency. |
+| **Multimodal AI Categorization** | Uses Gemini 1.5 Pro to process raw images, extract hazard context, and write engineering briefs. |
+**Zero Human Middlemen:** Automatically determines issue severity and routes tickets without data entry. |
+| **Geospatial De-duplication** | Scans a tight coordinate radius using specialized PostGIS R-Tree spatial indexing. |
+**Solves Ticket Spam:** If 30 people report the same streetlight failure, it appends updates to a single master issue. |
+| **Decentralized Proximity Verification** | Leverages Redis and Firebase Cloud Messaging to send background validation tasks to nearby users. | 
+**Crowdsourced Integrity:** Offloads physical inspection tasks to trusted community clusters for validation. |
+| **Real-Time Public SLA Timers** | Tracks ticket statuses continuously against dynamic service department resolution deadlines.
+| **Enforces Accountability:** Publicly displays dynamic countdown trackers for municipal transparency. |
