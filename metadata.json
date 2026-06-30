@@ -1,0 +1,6 @@
+{
+  "name": "Community Hero App",
+  "description": "An AI-powered Civic Intelligence Platform helping citizens, communities, and local authorities collaboratively identify, verify, prioritize, track, and resolve hyperlocal infrastructure and public service issues.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
